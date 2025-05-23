@@ -24,7 +24,7 @@ module.exports.run = async function({ api,event,args,client,Users,Threads,__GLOB
 		seconds = Math.floor(time % 60);
 	const moment = require("moment-timezone");
 	var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
-	var link = ["https://i.imghippo.com/files/lJ8376Tkc.jpg"];
+	var link = ["https://www.imghippo.com/i/hwF3457wA.jpg"];
 	var callback = () => api.sendMessage({
 		body: `╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇧🇩 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇧🇩 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
